@@ -74,26 +74,35 @@ The model extracts artistic characteristics from the style image and applies the
 - The model successfully transformed the dental clinic image into an artwork inspired by The Starry Night.
 
 ## Screenshots
-Content and Style Images
 
-TensorFlow Hub Model Loading
+### Content and Style Images
 
-Style Transfer Execution
+![Content and Style Images](screenshots/task5_content_style_images.png)
 
-Final Stylized Output
+### TensorFlow Hub Model Loading
+
+![Model Loading](screenshots/task5_model_loading.png)
+
+### Style Transfer Execution
+
+![Style Transfer Execution](screenshots/task5_style_transfer_execution.png)
+
+### Final Stylized Output
+
+![Final Output](screenshots/task5_final_output.png)
 
 ## Repository Structure
 
 PRODIGY_GA_05
 │
 ├── screenshots/
-│   ├── content_style_images.png
-│   ├── model_loading.png
-│   ├── style_transfer_execution.png
-│   └── final_output.png
+│   ├── task5_content_style_images.png
+│   ├── task5_model_loading.png
+│   ├── task5_style_transfer_execution.png
+│   └── task5_final_output.png
 │
 ├── .gitignore
+├── LICENSE
 ├── PRODIGY_GA_05_Neural_Style_Transfer.ipynb
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
